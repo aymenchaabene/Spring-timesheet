@@ -1,0 +1,8 @@
+stages:
+   - build
+   - test
+   - package
+   - deploy
+
+only: 
+   - master

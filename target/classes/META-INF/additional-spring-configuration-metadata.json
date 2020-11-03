@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "log4j.rootLogger",
+    "type": "java.lang.String",
+    "description": "A description for 'log4j.rootLogger'"
+  },
+  {
+    "name": "sonar.java.coveragePlugin",
+    "type": "java.lang.String",
+    "description": "A description for 'sonar.java.coveragePlugin'"
+  }
+]}

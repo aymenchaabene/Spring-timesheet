@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Med
+Build-Jdk: 14.0.2
+Implementation-Title: Timesheet-spring-boot-core-data-jpa-mvc-REST
+Implementation-Version: 1.0
+Implementation-Vendor-Id: tn.esprit.spring
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/Timesheet-spring-boot-core-data-jpa-mvc-REST
+Created-By: Maven Integration for Eclipse
+

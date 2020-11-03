@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-11-01T01:32:48 WAT" name="Surefire suite" finished-at="2020-11-01T01:32:58 WAT" duration-ms="10569">
+    <groups>
+    </groups>
+    <test started-at="2020-11-01T01:32:48 WAT" name="Surefire test" finished-at="2020-11-01T01:32:58 WAT" duration-ms="10569">
+      <class name="tn.esprit.spring.repositoryTest.EmployeRepositoryTest">
+        <test-method signature="getSalaireMoyenByDepartementIdTest()" started-at="2020-11-01T01:32:48 WAT" name="getSalaireMoyenByDepartementIdTest" finished-at="2020-11-01T01:32:58 WAT" duration-ms="9543" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getSalaireMoyenByDepartementIdTest -->
+        <test-method signature="employeNamesTest()" started-at="2020-11-01T01:32:48 WAT" name="employeNamesTest" finished-at="2020-11-01T01:32:58 WAT" duration-ms="9580" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- employeNamesTest -->
+        <test-method signature="getAllEmployeByEntreprisecTest()" started-at="2020-11-01T01:32:48 WAT" name="getAllEmployeByEntreprisecTest" finished-at="2020-11-01T01:32:58 WAT" duration-ms="9684" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllEmployeByEntreprisecTest -->
+        <test-method signature="countempTest()" started-at="2020-11-01T01:32:48 WAT" name="countempTest" finished-at="2020-11-01T01:32:58 WAT" duration-ms="9716" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- countempTest -->
+        <test-method signature="ajouterEmployerTest()" started-at="2020-11-01T01:32:48 WAT" name="ajouterEmployerTest" finished-at="2020-11-01T01:32:58 WAT" duration-ms="9784" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ajouterEmployerTest -->
+        <test-method signature="getSalaireByEmployeIdJPQLTest()" started-at="2020-11-01T01:32:48 WAT" name="getSalaireByEmployeIdJPQLTest" finished-at="2020-11-01T01:32:58 WAT" duration-ms="9762" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getSalaireByEmployeIdJPQLTest -->
+        <test-method signature="deleteAllContratJPQLTest()" started-at="2020-11-01T01:32:48 WAT" name="deleteAllContratJPQLTest" finished-at="2020-11-01T01:32:58 WAT" duration-ms="9891" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteAllContratJPQLTest -->
+        <test-method signature="mettreAjourEmailByEmployeIdJPQLTest()" started-at="2020-11-01T01:32:48 WAT" name="mettreAjourEmailByEmployeIdJPQLTest" finished-at="2020-11-01T01:32:58 WAT" duration-ms="9824" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mettreAjourEmailByEmployeIdJPQLTest -->
+      </class> <!-- tn.esprit.spring.repositoryTest.EmployeRepositoryTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
